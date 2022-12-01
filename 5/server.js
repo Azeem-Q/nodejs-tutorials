@@ -40,6 +40,28 @@ const server = http.createServer((req, res) => {
     default:
       contentType = "text/html";
   }
+
+  let filePath =
+    contentType === "text/html" && req.url === "/"
+      ? path.join(__dirname, "views", "index.html")
+      : contentType === "text/html" && req.url.slice(-1) === "/"
+      ? path.join(__dirname, "views", req.url, "index.html")
+      : contentType === "text/html"
+      ? path.join(__dirname, "views", req.url)
+      : path.join(__dirname, req.url);
+
+  // makes html extension not required in the browser
+  if (!extension && req.url.slice(-1) !== "/") filePath += ".html";
+
+  const fileExists = fs.existsSync(filePath);
+
+  if (fileExists) {
+    // serve the file
+  } else {
+    // 404
+    // 301 redirect
+    console.log(path.parse(filePath).base);
+  }
 });
 
 server.listen(PORT, () => console.log(`Server running on port ${PORT}`));
