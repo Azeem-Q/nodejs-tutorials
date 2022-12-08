@@ -1,7 +1,20 @@
 const express = require("express");
 const app = express();
 const path = require("path");
+const cors = require("cors");
+const { logger } = require("./middleware/logEvents");
 const PORT = process.env.PORT || 3500;
+
+// custom middleware logger
+app.use(logger);
+
+// cors => cross origin resource sharing
+const whitelist = [
+  "https://www.yoursite.com",
+  "http://127.0.0.1:5500",
+  "http:localhost:3500",
+];
+app.use(cors());
 
 // built-in middleware to handle urlencoded data
 // in other words, from data:
