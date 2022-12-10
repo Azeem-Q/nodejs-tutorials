@@ -1,0 +1,1 @@
+20221209	08:43:08	080ba88e-47e3-4627-8c0f-bd58b83282e9	Error: Not allowed by CORS
