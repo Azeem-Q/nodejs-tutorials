@@ -70,3 +70,15 @@
 20221210	08:34:57	c8eac016-d1cf-4543-93a7-d12cd686f644	GET	undefined	/img/img1.jpg
 20221210	08:35:31	2bf6f6be-4dee-4e8f-a41d-1cae22250747	GET	undefined	/index
 20221210	08:35:31	76d5ae11-5bc6-4b41-a0d1-2fe59781fd43	GET	undefined	/css/style.css
+20221213	07:46:39	f8b8db18-3e87-404a-8e29-afd1b9689194	GET	undefined	/index
+20221213	07:46:40	16b6cac6-4743-4549-b255-5dd0ae13a150	GET	undefined	/css/style.css
+20221213	07:46:40	eb3712c9-77e8-4e86-add7-d54444c08357	GET	undefined	/favicon.ico
+20221213	08:06:36	5ac61fe3-941f-4258-a7b2-3a2074cdefc6	GET	undefined	/employees
+20221213	08:06:48	f2bddc58-83f5-45ba-b942-4b99cc7424a8	GET	undefined	/employees?:id
+20221213	08:06:55	221481c4-6f85-4b6c-b952-7a7d157cd486	GET	undefined	/employees:id
+20221213	08:06:55	fa441bd8-97a8-430c-bc04-29fd12721803	GET	undefined	/css/style.css
+20221213	08:07:40	78a09152-79ab-486c-b4ec-1d7aeada390e	GET	undefined	/employees
+20221213	08:13:11	fb851884-0877-46c9-ab9a-06ecf0104193	POST	undefined	/employees
+20221213	08:18:52	077bfa3d-f32c-4aa5-9c9a-ad07bf5ed620	PUT	undefined	/employees
+20221213	08:20:33	f7cbc19e-efdd-4e23-a9b7-bac388576ed1	DELETE	undefined	/employees
+20221213	08:21:22	8086e2f9-a840-4bc0-ae9d-1ef7069bd590	GET	undefined	/employees/1
