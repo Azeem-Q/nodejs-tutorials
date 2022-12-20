@@ -1,0 +1,2 @@
+20221209	08:43:08	080ba88e-47e3-4627-8c0f-bd58b83282e9	Error: Not allowed by CORS
+20221220	08:24:10	92e1f303-3c0a-452a-a8a8-7b61ce50e706	SyntaxError: Unexpected end of JSON input
