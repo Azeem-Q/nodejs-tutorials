@@ -90,3 +90,8 @@
 20221220	08:24:10	e2cdce13-2477-4a4a-9b82-648a97d18613	DELETE	undefined	/employees
 20221220	08:24:17	54025f6d-a855-4d42-b54e-5e1130b1009c	DELETE	undefined	/employees
 20221220	08:24:34	27a8501c-dbd1-4683-b9e0-d28f53eb97d1	GET	undefined	/employees/1
+20221222	07:14:10	7978d5f9-88d9-4936-b529-43976eaceb56	POST	undefined	/register
+20221222	07:23:08	2f068b30-444d-40ae-a67b-fd51256bc2f2	POST	undefined	/register
+20221222	07:57:51	be73e6b8-eadf-4c32-8aa5-79d15eab8813	POST	undefined	/auth
+20221222	07:58:16	424916dd-e008-4d4c-8906-24a8ea34777b	POST	undefined	/auth
+20221222	07:59:16	82548f2e-3487-4d8e-8649-db8a59ad28ba	POST	undefined	/register
