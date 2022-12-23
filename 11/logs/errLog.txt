@@ -1,2 +1,3 @@
 20221209	08:43:08	080ba88e-47e3-4627-8c0f-bd58b83282e9	Error: Not allowed by CORS
 20221220	08:24:10	92e1f303-3c0a-452a-a8a8-7b61ce50e706	SyntaxError: Unexpected end of JSON input
+20221223	08:05:38	3729f379-190c-4500-b42e-0f59c540dd39	ReferenceError: proc is not defined
