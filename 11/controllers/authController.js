@@ -19,7 +19,7 @@ const handleLogin = async (req, res) => {
       .json({ message: "Username and password are required." });
   const foundUser = usersDB.users.find((person) => person.username === user);
   if (!foundUser) return res.sendStatus(401); //Unauthorized
-  // eevaluate password
+  // evaluate password
   const match = await bcrypt.compare(pwd, foundUser.password);
   if (match) {
     // create JWTs
