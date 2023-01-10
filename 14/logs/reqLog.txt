@@ -322,3 +322,5 @@
 20230102	08:27:48	0c432749-8b15-42b9-93d2-73613831a3ce	POST	undefined	/auth
 20230102	08:28:00	08b0e4e4-de8a-47b3-abec-bfa6e0dc3652	POST	undefined	/employees
 20230102	08:28:06	b4f1a168-2503-46ba-9981-3d352d5f4658	DELETE	undefined	/employees
+20230110	07:56:51	ea977cfa-e4ad-488d-b17e-4bc93016538e	POST	undefined	/register
+20230110	07:58:17	397049e6-3d00-4a63-821a-c74bf5ef7d27	POST	undefined	/register
