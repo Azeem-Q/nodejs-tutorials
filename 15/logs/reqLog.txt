@@ -400,3 +400,11 @@
 20230111	20:26:24	fddfa0dc-2cfe-405d-92a9-6ebf959e72fe	POST	undefined	/employees
 20230111	20:26:36	a1818b50-4c65-4e86-8691-98723ab03446	POST	undefined	/employees
 20230111	20:26:52	e8bda6a1-0dee-4383-8ec6-bc24eb563014	DELETE	undefined	/employees
+20230114	07:55:26	89e3e786-c56d-4451-bdf8-885ba479fdd8	POST	undefined	/auth
+20230114	07:56:17	25e29d8b-d090-4fe4-9962-1d82f5771839	GET	undefined	/users
+20230114	08:00:18	3ceb09e9-a387-4886-b2ea-a9daeaf0b1d8	DELETE	undefined	/users
+20230114	08:01:42	70321663-30b9-4b07-b443-21802b1deeae	POST	undefined	/auth
+20230114	08:02:50	5484727d-8348-421b-bf54-038f8cc1f5c7	POST	undefined	/auth
+20230114	08:04:38	de21faab-fcfd-49c5-b5f4-806e65603fcb	POST	undefined	/auth
+20230114	08:04:54	4fbb7070-fc73-46c0-9b12-8d96a0cd764a	DELETE	undefined	/users
+20230114	08:05:05	50666bf3-c9bb-4478-a602-8c40e4a30a1a	GET	undefined	/users
